@@ -4,8 +4,17 @@
     * [Threadpool](https://github.com/TheAlgorithms/Zig/blob/HEAD/concurrency/threads/ThreadPool.zig)
 
 ## Datastructures
+  * [Doublylinkedlist](https://github.com/TheAlgorithms/Zig/blob/HEAD/dataStructures/doublyLinkedList.zig)
   * [Linkedlist](https://github.com/TheAlgorithms/Zig/blob/HEAD/dataStructures/linkedList.zig)
   * [Lrucache](https://github.com/TheAlgorithms/Zig/blob/HEAD/dataStructures/lruCache.zig)
+  * [Stack](https://github.com/TheAlgorithms/Zig/blob/HEAD/dataStructures/stack.zig)
+  * [Trie](https://github.com/TheAlgorithms/Zig/blob/HEAD/dataStructures/trie.zig)
+
+## Dynamicprogramming
+  * [Coinchange](https://github.com/TheAlgorithms/Zig/blob/HEAD/dynamicProgramming/coinChange.zig)
+  * [Editdistance](https://github.com/TheAlgorithms/Zig/blob/HEAD/dynamicProgramming/editDistance.zig)
+  * [Knapsack](https://github.com/TheAlgorithms/Zig/blob/HEAD/dynamicProgramming/knapsack.zig)
+  * [Longestincreasingsubsequence](https://github.com/TheAlgorithms/Zig/blob/HEAD/dynamicProgramming/longestIncreasingSubsequence.zig)
 
 ## Math
   * [Ceil](https://github.com/TheAlgorithms/Zig/blob/HEAD/math/ceil.zig)

@@ -15,6 +15,8 @@ jobs:
           submodules: recursive
           fetch-depth: 0
       - uses: mlugg/setup-zig@v1
+        with:
+          version: 0.13.0
 
       - name: Testing (Linux & MacOS)
         if: (startsWith(matrix.runs-on, 'ubuntu')) || (startsWith(matrix.runs-on, 'macos'))
